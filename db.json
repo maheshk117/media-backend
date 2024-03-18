@@ -1,0 +1,23 @@
+{
+  "videos": [],
+  "categories": [
+    {
+      "categoryName": "movie",
+      "id": 3,
+      "allVideos":[]
+    },
+    {
+      "categoryName": "Anime",
+      "id": 4,
+      "allVideos":[]
+
+    },
+    {
+      "categoryName": "Television",
+      "id": 5,
+      "allVideos":[]
+
+    }
+  ],
+  "history": []
+}
